@@ -1,15 +1,11 @@
-# 基于springboot+vue实现的医院管理系统
+## 基于springboot+vue实现的医院管理系统带万字文档
 
-### 9.9￥ 获取完整源码+sql，需要加Q：3577148218 ,微信: qszard26
-### 有问题，或者需要协助调试运行项目的也可联系
-### 获取更多项目，关注微信公众号：xzzard
-
-## 项目介绍
+### 一、项目介绍
 基于springboot+vue的前后端分离的医院管理系统
 
-开发语言：java
+语言：java 
 
-运行环境:idea或eclipse vscode 数据库:mysql
+数据库：mysql  
 
 角色：管理员、患者、医生
 
@@ -33,22 +29,38 @@
 
 数据库: MySQL
 
+### 完整项目获取
+
+通过网盘分享的文件：医院管理系统
+
+链接: https://pan.baidu.com/s/1L9GDT0TOyHq28N_0p60kiA?pwd=jh35 提取码: jh35
+--来自百度网盘超级会员v3的分享
+
+通过网盘分享的文件：工具包
+
+链接: https://pan.baidu.com/s/1YmdoJvkjoUjA75wvHLDZ6A?pwd=xm96 提取码: xm96
+--来自百度网盘超级会员v3的分享
+
+通过网盘分享的文件：远程调试部署联系方式
+
+链接: https://pan.baidu.com/s/1W0dDcoZmayG0c7USJDYBYg?pwd=nqd7 提取码: nqd7
+--来自百度网盘超级会员v3的分享
+
 ### 一、部分项目功能图展示
 
 ![img.png](imgs/img.png)
 
+![img_1.png](imgs/img_1.png)
+
 ![img_2.png](imgs/img_2.png)
-
-![img_3.png](imgs/img_3.png)
-
-![img_4.png](imgs/img_4.png)
 
 ![img_5.png](imgs/img_5.png)
 
 ![img_6.png](imgs/img_6.png)
 
-### 9.9￥ 获取完整源码+sql，需要加Q：3577148218 ,微信: qszard26
-### 有问题，或者需要协助调试运行项目的也可联系
-### 获取更多项目，关注微信公众号：xzzard
+### 二、万字文档
 
-![img.png](imgs/img1.png)
+
+![img_6.png](imgs/1.png)
+
+![img_6.png](imgs/2.png)
